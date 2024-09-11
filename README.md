@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Computer Nerd
 <!--
 **0xkafkaa/0xkafkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
